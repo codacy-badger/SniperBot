@@ -1,0 +1,8 @@
+/target/
+/WILDCARDS.txt
+/SETTINGS.json
+/CMDLOG.txt
+/*.yml
+/*.classpath
+/*.project
+/.settings/
